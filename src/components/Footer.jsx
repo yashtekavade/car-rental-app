@@ -13,8 +13,8 @@ function Footer() {
                 have the perfect car to meet your needs.
               </li>
               <li>
-                <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                <a>
+                  <i className="fa-solid fa-phone"></i> &nbsp; 9518311934
                 </a>
               </li>
 
@@ -43,7 +43,7 @@ function Footer() {
             <ul className="footer-content__2">
               <li>Company</li>
               <li>
-                <a href="#home">New York</a>
+                <a href="#home"></a>
               </li>
               <li>
                 <a href="#home">Careers</a>
